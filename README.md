@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neural Network Assignments</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h2 {
-            color: #2F4F4F;
-        }
-        code {
-            background-color: #f5f5f5;
-            padding: 2px 4px;
-            border-radius: 3px;
-            font-family: "Courier New", Courier, monospace;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Neural Network Assignments Repository</h1>
 
 <h2>C1W1_Assignment: Housing Prices</h2>
@@ -41,5 +16,3 @@
 <p>This assignment involved using the happy or sad dataset, which contains 80 images of emoji-like faces (40 happy, 40 sad). A convolutional neural network was created, achieving an impressive training accuracy of 99.9%. Training automatically stops upon reaching this accuracy threshold.</p>
 <code>Explore the convolutional model [here](C1W4_Assignment/).</code>
 
-</body>
-</html>
