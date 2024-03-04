@@ -1,4 +1,4 @@
-<h1>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning Assignments Repository</h1>
+<h1>Introduction to TensorFlow for AI, ML, and Deep Learning</h1>
 
 <h2>C1W1_Assignment: Housing Prices</h2>
 <p>In this assignment, a neural network was built to predict the price of a house based on a simple formula:</p>
